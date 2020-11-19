@@ -1,0 +1,10 @@
+[oppo]
+Name = '学生系统'
+platformName = python
+platformVersion = 1.2
+
+[db]
+host = 192.168.109.34
+user = root
+password = 123456
+db_name = student_db
